@@ -1,1 +1,0 @@
-function e(){return window.matchMedia(`(prefers-reduced-motion: reduce)`).matches}function t(){return window.matchMedia(`(pointer: coarse)`).matches}function n(){return window.matchMedia(`(hover: hover)`).matches}export{t as n,e as r,n as t};
