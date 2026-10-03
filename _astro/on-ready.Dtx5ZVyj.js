@@ -1,1 +1,0 @@
-function e(e){document.readyState===`loading`?document.addEventListener(`DOMContentLoaded`,e,{once:!0}):e()}export{e as t};

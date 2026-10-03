@@ -1,0 +1,1 @@
+function e(){return window.matchMedia(`(prefers-reduced-motion: reduce)`).matches}function t(){return window.matchMedia(`(pointer: coarse)`).matches}function n(e){document.readyState===`loading`?document.addEventListener(`DOMContentLoaded`,e,{once:!0}):e()}export{t as n,e as r,n as t};
