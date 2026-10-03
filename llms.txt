@@ -9,11 +9,12 @@ do Brasil.
 
 ## Fatos
 
-- Autora: DêBarak, pessoa física, autora e compositora goiana. Não é uma editora nem uma gravadora.
+- Autora: DêBarak, pessoa física, autora goiana. Não é uma editora nem uma gravadora.
 - As dez canções podem ser ouvidas gratuitamente no site, com letra completa.
 - As canções foram cocriadas com ferramentas de IA generativa; a curadoria do sentimento é da autora.
 - O livro ainda não tem data pública de lançamento.
 - Contato e novidades: https://instagram.com/debarak.ondas
+- Outras canções e experimentos musicais, fora das dez do livro: https://suno.com/@debarak
 
 ## Páginas
 
@@ -21,15 +22,15 @@ do Brasil.
 
 ## Canções
 
-- [01. Maré Dentro de Mim](https://www.debarak.com.br/t/01/): áudio e letra completa, 03:59.
-- [02. Linhas Negras](https://www.debarak.com.br/t/02/): áudio e letra completa, 03:45.
+- [01. Maré Dentro de Mim](https://www.debarak.com.br/t/01/): áudio e letra completa, 03:34.
+- [02. Linhas Negras](https://www.debarak.com.br/t/02/): áudio e letra completa, 03:57.
 - [03. Eu Tentei Seguir](https://www.debarak.com.br/t/03/): áudio e letra completa, 04:00.
 - [04. Apneia da Razão](https://www.debarak.com.br/t/04/): áudio e letra completa, 03:25.
 - [05. Me Beija](https://www.debarak.com.br/t/05/): áudio e letra completa, 02:54.
 - [06. Nirvana Cor-de-Rosa](https://www.debarak.com.br/t/06/): áudio e letra completa, 02:55.
 - [07. Somos Complicadas, Nós, Mulheres](https://www.debarak.com.br/t/07/): áudio e letra completa, 03:38.
 - [08. Controle Tépido](https://www.debarak.com.br/t/08/): áudio e letra completa, 03:34.
-- [09. Brilho no Avesso](https://www.debarak.com.br/t/09/): áudio e letra completa, 03:45.
+- [09. Executando o Vazio](https://www.debarak.com.br/t/09/): áudio e letra completa, 03:38.
 - [10. Queimar de Novo](https://www.debarak.com.br/t/10/): áudio e letra completa, 04:07.
 
 ## Perguntas frequentes
@@ -40,7 +41,7 @@ do Brasil.
 
 ### Quem é DêBarak?
 
-DêBarak é uma autora e compositora goiana, aposentada, devota da música popular brasileira. Aos 57 anos, sem formação técnica, sem instrumento e sem palco, encontrou nas ferramentas de inteligência artificial generativa uma forma de transformar em canção décadas de histórias que nunca tinham encontrado melodia.
+DêBarak é uma autora goiana, aposentada, devota da música popular brasileira e aberta a novas experiências criativas por meio da tecnologia. Aos 57 anos, sem formação musical técnica, sem instrumento e sem palco, encontrou nas ferramentas de inteligência artificial generativa uma forma de transformar em canções décadas de histórias, memórias e afetos.
 
 ### Como funcionam os QR Codes do livro?
 
