@@ -1,1 +1,0 @@
-import{t as e}from"./on-ready.Dtx5ZVyj.js";e(()=>{window.matchMedia(`(width < 48rem)`).matches&&document.querySelector(`#perguntas .faq-item`)?.setAttribute(`open`,``)});
