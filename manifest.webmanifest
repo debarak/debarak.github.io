@@ -4,8 +4,8 @@
   "description": "As Ondas da Minha Maré Criativa, livro multimídia de DêBarak.",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#050823",
-  "theme_color": "#050823",
+  "background_color": "#010822",
+  "theme_color": "#010822",
   "lang": "pt-BR",
   "icons": [
     {
